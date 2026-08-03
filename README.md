@@ -1,62 +1,62 @@
 # mathematics-roadmap
-A Comprehensive Roadmap for Mathematics _(in progress)_
+一份全面的数学学习路线图 _(持续完善中)_
 
 Keywords: `mathematics roadmap`, `mathematics`, `roadmap`, `mathematics study plan`, `mathematics references`, `references`, `mathematics books`, `books`
 
-## Audience
-This roadmap is primarily intended for students of Mathematics. This doesn't necessarily mean that students from other disciplines such as Physics and Computer Science won't benefit from it; however, looking at the roadmap could be overwhelming for them, but this is because Mathematics has many areas and the roadmap was intended to be comprehensive to include them. 
+## 目标读者
+本路线图主要面向数学专业的学生。这并不意味着物理学和计算机科学等其他学科的学生不能从中受益；然而，对于他们来说，这份路线图可能会显得过于庞杂，但这是因为数学有许多分支领域，而本路线图旨在尽可能全面地涵盖它们。
 
-## Roadmap Image
-The file `mathematics-roadmap.jpg` contains the image of the roadmap.
+## 路线图图片
+文件 `mathematics-roadmap.jpg` 包含了路线图的图片。
 ![roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap/raw/master/mathematics-roadmap.jpg)
 
-## Philosophy
+## 理念
 
-### Problems with learning Mathematics
-There are several problems with the way Mathematics is presented and taught today which causes all the confusion and struggle that the students experience. In my opinion, the main problem is the way in which Mathematics is currently written in the textbooks. Mathematics is considered to be a deductive science, i.e., starts from first principles (called **Axioms** or **Postulates**) and a set of logical rules that are used to establish results (called **Theorems**) from these first principles; hence, it is typically written in that systematic order to reflect its underlying logical structure. I don't mean from this that it is a "bad" way to write Mathematics in, and I would even say that this is how mathematics should be written "rigorously". However, "rigorously" doesn't imply "pedagogically effective", that is, we don't "naturally" think within the bounds of the axiomatic method. This, also, doesn't imply that we will need to get entirely rid of writing axiomatically either, but to seek somewhere between logical rigor and effective pedagogy. The lack of motivation for the axioms and definitions and the precedence of abstractions to concrete examples (or instances) make students feel that the subject could only be fully understood by an elite few (geniuses). One can hardly find a textbook on any topic that includes its history, philosophy & motivation, and to also contain all the theorems and proofs that the other textbooks contain.
+### 当今数学学习的问题
+当今数学的呈现和教学方式存在若干问题，这些问题导致了学生在学习过程中遇到的种种困惑和挣扎。在我看来，最主要的问题在于当前教科书编写数学的方式。数学被视为一门演绎科学，即从第一原理（称为**公理**或**公设**）和一组逻辑规则出发，从这些第一原理推导出结果（称为**定理**）；因此，数学通常按照这种系统化的顺序来编写，以反映其底层的逻辑结构。我并不是说这是一种"不好的"数学写作方式，我甚至认为这正是数学应当被"严格"书写的方式。然而，"严格"并不意味着"教学上有效"，也就是说，我们并不会"自然地"在公理化方法的框架内进行思考。这也不意味着我们要完全抛弃公理化的写作方式，而是要在逻辑严格性与有效教学法之间寻找某种平衡。公理和定义缺乏动机，抽象概念先于具体例子（或实例）出现，这些都会让学生觉得这门学科只能被少数精英（天才）所理解。很难找到一本既包含其历史、哲学和动机，又包含其他教科书所具备的全部定理和证明的教材。
 
-### Objective
-I don't intend here to offer solutions to the problems mentioned above; however, using the best _(pedagogically best)_ of available references, I wish to construct an effective and comprehensive roadmap for learning Mathematics which approximates my idea of good mathematical exposition.
+### 目标
+我无意在此为上述问题提供解决方案；然而，我希望利用现有最好的（在教学上最好的）参考资料，构建一条有效且全面的数学学习路线图，以接近我所认为的优秀数学阐述的理想。
 
-I emphasize the importance of the relation of other subjects to Mathematics. Of course, Philosophy lays down the conceptual framework that encompasses the entirety of human knowledge so it relates to any field or science not just Mathematics but Philosophy always had a special relationship with Mathematics and anyone who reads Philosophy can clearly  see that. Philosophy impacts one's thought and makes him independent, aware, self-reflective, critical, rigorous, and always seeking for deep understanding. Although I started the roadmap with Philosophy because of my obvious bias, you can skip it but I highly recommend reading at least one book. Also, there are many other important subjects such as Computer Science and Physics which are strongly connected to Mathematics if not sometimes regarded as subsets of Mathematics. Throughout history, Mathematics was strongly influenced by these subjects, and in turn, Mathematics also influenced them. Many ideas in Mathematics have their origins in problems in subjects elsewhere so these subjects are extremely useful for motivating these ideas.
+我强调其他学科与数学关系的重要性。当然，哲学奠定了涵盖人类全部知识的概念框架，因此它与任何领域或科学都相关，而不仅仅是数学——但哲学与数学始终有着特殊的关系，任何阅读哲学的人都能清楚地看到这一点。哲学影响一个人的思想，使他独立、有意识、善于自我反思、具有批判性、严谨，并始终追求深刻的理解。虽然出于我明显的偏见，我将哲学放在了路线图的开头，但你可以跳过它，不过我强烈建议至少读一本书。此外，还有许多其他重要的学科，如计算机科学和物理学，它们与数学有着紧密的联系，有时甚至被认为是数学的子集。纵观历史，数学深受这些学科的影响，反过来，数学也影响了它们。数学中的许多思想源于其他学科中的问题，因此这些学科对于激发这些思想极为有用。
 
-### Learning Tips
-Learning Mathematics is a tedious task that requires long periods of conscious effort and patience. I offer some tips which I consider to be of great importance when learning any subject within Mathematics (which could be applied elsewhere).
+### 学习建议
+学习数学是一项艰苦的工作，需要长时间的专注努力和耐心。我提供一些建议，我认为在学习数学中的任何主题时（这些建议也可应用于其他领域）都非常重要。
 
-* The main goal of learning is to understand the ideas and concepts at hand as "deeply" as possible. Understanding is a mental process we go through to see how a new idea is related to previous ideas and knowledge. By "deeply" we mean to grasp as much of the ideas and relations between them as possible. A good metaphor for this is picturing knowledge as a web of ideas where everything is somehow related to everything else, and the more dense the web is, the stronger it becomes. This means that there might be no "perfect" state of understanding, and otherwise it is an on-going process. You could learn a subject and think you understand it completely, then after learning other subjects, you come back to the first subject to observe that now you understand it deeper. Here we can use a famous quote from the mathematician John V. Neumann: "Young man, in mathematics you don't understand things. You just get used to them", which I think really means that getting "used to" some subject in Mathematics might be the first step in the journey of its understanding! Understanding is the journey itself and not the final destination.
+* 学习的主要目标是尽可能"深入"地理解当前的思想和概念。理解是一个心理过程，我们通过它来认识一个新思想如何与先前的思想和知识相关联。所谓"深入"，是指尽可能多地把握思想及其之间的联系。一个好的比喻是将知识想象成一张思想之网，其中一切事物都以某种方式相互关联，网络越密集，它就越牢固。这意味着可能不存在"完美"的理解状态，理解是一个持续不断的过程。你可能学完一个主题后认为自己完全理解了它，然后在学习了其他主题之后，你回到第一个主题，发现现在你对它的理解更加深入了。这里我们可以引用数学家约翰·冯·诺依曼的一句名言："年轻人，在数学中你不是理解事物，你只是习惯了它们。"我认为这句话的真正含义是，"习惯"数学中的某个主题可能是理解之旅的第一步！理解本身就是旅程，而不是最终的目的地。
 
-* Motivation for any new concept is a must. This includes historical development of the subject which is sometimes crucial to understanding, analogies, drawings, and many other methods. Thought is induced by problems, questions, and misconceptions; thus, knowing what questions were asked in the mind of the mathematician who developed the subject and the problems he confronted really helps guiding thought in the right direction of understanding.
+* 任何新概念的**动机**都是必须的。这包括该学科的历史发展（有时对理解至关重要）、类比、图示以及许多其他方法。思维是由问题、疑问和误解引发的；因此，了解发展该学科的数学家脑海中提出了什么问题以及他面临的困难，确实有助于引导思维走向正确的理解方向。
 
-* Always question the way the subject is presented. This includes questioning everything from the way terms are defined, to the way theorems are proved, even questioning whether the subject deserves the time and effort mathematicians put to it. Sometimes, there could be many different ways to define something; however, a particular definition is chosen among others for some conveniences and goals, so learning about these conveniences and goals would motivate the use of that definition. Some other times, more than one definition are studied independently so one can easily see the consequences of different definitions. We could use a good quote here from the mathematician Paul Halmos: "Don't just read it; fight it! Ask your own question, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?".
+* 始终质疑学科内容的呈现方式。这包括质疑一切，从术语的定义方式到定理的证明方式，甚至质疑该学科是否值得数学家投入时间和精力。有时候，定义某个东西可能有许多不同的方式；然而，出于某些便利性和目标，某个特定的定义被选中，因此了解这些便利性和目标会激发使用该定义的动机。另外一些时候，多种定义会被独立研究，这样人们就能更容易地看到不同定义带来的不同结果。这里我们可以引用数学家保罗·哈尔莫斯的一句名言："不要只是读它；要与它搏斗！提出你自己的问题，寻找你自己的例子，发现你自己的证明。假设是否必要？逆命题是否成立？经典特例中会发生什么？退化情况呢？证明在哪里用到了假设？"
 
-* Solve as many exercises as you can to challenge your understanding and problem-solving skills. Exercises can sometimes reveal weaknesses in your understanding. Unfortunately, there is no mathematical instruction manual for problem-solving, it is rather an essential skill that requires practice and develops over time. However, it could be greatly impacted by your level of understanding of the subject. The processes of learning and problem-solving are interrelated and no one of them is dispensable in the favor of the other. There are also general techniques that could be helpful in most cases which are found in some books on problem-solving (which are included in the roadmap).
+* 尽可能多地**做练习**来挑战你的理解和解题能力。练习有时能揭示你理解中的薄弱之处。不幸的是，解题没有数学指导手册，它是一项需要练习并随时间发展的重要技能。然而，你对学科的理解程度会极大地影响你的解题能力。学习和解题的过程是相互关联的，不能偏废其一。还有一些通用技巧在大多数情况下都有帮助，这些可以在一些解题书籍中找到（路线图中已包含）。
 
-* Be **metacognitive** (from **Metacognition** which literally means "beyond cognition", i.e., "beyond knowledge"), that is, be aware of your own knowledge and thoughts and consciously think about how you think and acquire knowledge. Thought is not passive, but an active process that could reflect on itself. Metacognition and consciousness help us monitor and regulate our thought processes to increase our potential to learn. This gives us the ability to evaluate our own performance by utilizing past thought experience.
+* 要有**元认知**意识（来自**元认知**，字面意思是"超越认知"，即"超越知识"），也就是说，要意识到你自己的知识和思维，并有意识地思考你是如何思考和获取知识的。思维不是被动的，而是一个能够反思自身的主动过程。元认知和意识帮助我们监控和调节我们的思维过程，以提高我们学习的潜力。这使我们能够利用过去的思维经验来评估自己的表现。
 
-* Teach what you have learned to someone else or at least imagine that you are explaining what you learned to someone in the best possible way (which is also known as the Feynman Technique). This forces you to elaborately rethink what you have learned which could help you discover any weaknesses in your understanding.
+* 将你学到的东西**教给别人**，或者至少想象你正在以最好的方式向某人解释你学到的东西（这也被称为费曼技巧）。这迫使你精心重新思考你学到的东西，有助于发现你理解中的任何薄弱之处。
 
-## Reading Tips
-How should one approach books? Should the reader go through every word from the first page to the last page? Should you solve every single problem? These questions are typical regarding book reading, and answering them is not a straightforward task. I will provide general guidelines, and accordingly the reader should find suitable answers for these questions.
+## 阅读建议
+一个人应该如何阅读书籍？读者是否应该一页不落地从头读到尾？是否应该做完每一道习题？这些是关于阅读的典型问题，回答它们并非易事。我将提供一般性的指导原则，读者应当据此找到适合自己的答案。
 
-* What is the most fundamental purpose of reading? To learn, of course. So determining what you want to learn, determines what you should read. Not only what books to read, but also what chapters within a book to read. Sometimes it suffices to read the first chapter of the book, and in other times you have to go through all the chapters. However, one isn't always sure what to read and what to leave, and in that case only read the part you are sure you will need, then after going through other books you will eventually know whether you need to return to the book to read more. Moreover, reading books is not always a "linear" process, that is, sometimes going back and forth between multiple books is necessary. The reader should be critical to himself, and he has to assess precisely what he knows and understands and what he doesn't.
+* 阅读的最基本目的是什么？当然是学习。因此，确定你想学什么，就决定了你应该读什么。不仅是读哪些书，还包括一本书中读哪些章节。有时候，阅读书的第一章就足够了；另一些时候，则需要通读所有章节。然而，人们并不总能确定该读什么、该跳过什么，在这种情况下，只读你确定需要的部分，之后在阅读其他书籍时，你最终会知道是否需要回到这本书来读更多内容。此外，阅读书籍并不总是一个"线性"的过程，也就是说，有时需要在多本书之间来回翻阅。读者应该对自己有批判性，准确地评估自己知道和理解什么，以及不知道什么。
 
-* Sometimes, skimming (pass quickly through the text to note only the important points by looking for certain keywords) is possible; however, in some cases, you might arrive at a paragraph that you will need to read word by word. That is left to the assessment of your understanding. Patience is the key when dealing with books, so don't expect to go through a 100+ page book in one day and understand everything completely unless you have reasonable prior knowledge of the subject.
+* 有时，**略读**（通过寻找关键词快速浏览文本，只关注重要观点）是可行的；然而，在某些情况下，你可能会遇到需要逐字阅读的段落。这取决于你对自己理解的评估。耐心是处理书籍的关键，所以不要指望一天之内就能读完一本100多页的书并完全理解所有内容，除非你对该学科有合理的先验知识。
 
-* When reading about a new concept, try to predict what the writer will say before you read it. What (important) questions would you ask about this concept? how would you answer them? and what would you deduce from these answers? Before you read a proof of a theorem, try to prove it yourself first. If you could carry out the proof entirely on your own, then you will become more confident of your knowledge. If you become stuck, then when you read the proof you would embrace what you didn't know and you would hardly forget the proof afterwards.
+* 在阅读新概念时，尝试在阅读之前**预测**作者会说什么。关于这个概念你会问什么（重要）问题？你会如何回答它们？从这些回答中你会推导出什么？在阅读定理的证明之前，先尝试自己证明它。如果你能完全独立地完成证明，那么你会对自己的知识更加自信。如果你遇到困难，那么在阅读证明时，你会欣然接受你所不知道的东西，之后你几乎不会忘记这个证明。
 
-* It is possible to find repetitive exercises, in other words, you could go through several exercises that have the same idea which could be solved by the same method. In this case, solving one of them could suffice. Don't always count on your intuition, since one can think he has solved the exercise by just looking at it and at the end he finds out otherwise. Going through all the exercises of a chapter/section is up to you and your assessment of how good you did with the exercises you solved (and again, depending on the assessment of your understanding of the subject).
+* 可能会遇到**重复的练习**，换句话说，你可能会遇到几道具有相同思路、可以用相同方法解决的练习。在这种情况下，做一道可能就足够了。不要总是依赖你的直觉，因为一个人可能会以为只看一眼就能解决练习，到头来却发现并非如此。是否完成一个章节/小节的所有练习，取决于你自己以及你对自己所做练习表现的评估（同样，也取决于你对该学科理解的评估）。
 
-* Learning how and when to take notes is not easy. You don't want to waste your time copying the entire book. Most modern books have nice ways to display important information such as definitions and theorems, so it's a waste of time to write these down since you can always return to them quickly. What you should do is take notes of how you understood a difficult concept (that took you a relatively long time to understand) or anything that you would like to keep for yourself which is not included in the book, or to rewrite something in the book with your own words. Notes are subjective and they should be a backup memory that extends your own memory.
+* 学习如何以及何时**做笔记**并不容易。你不想浪费时间抄写整本书。大多数现代书籍都有很好的方式来展示重要信息，如定义和定理，所以把它们写下来是浪费时间，因为你随时可以快速查阅。你应该做的是记录你是如何理解一个困难概念的（花了你相对较长时间才理解），或者任何你想为自己保留但书中没有包含的内容，或者用自己的话重写书中的内容。笔记是主观的，它们应该是扩展你记忆的备份。
 
-* Read critically. Books are written by people and they are not perfect. Don't take everything for granted. Think for yourself, and always ask yourself how would you write whatever you are reading. If you found out a better way to explain a concept, then write it down and keep it as a note.
+* **批判性地阅读**。书是人写的，它们并不完美。不要认为一切都理所当然。独立思考，始终问自己你会如何写你正在读的内容。如果你发现了一种更好的方式来解释某个概念，那就把它写下来，作为笔记保存。
 
-### How to use the Roadmap
+### 如何使用路线图
 
-The roadmap consists of topics, each represented as a labeled group of rectangles. The arrow connecting two groups (say from A to B) represents a dependency (B depends on A). Sometimes the dependency of either of the topics on the other is vague or they are interrelated so a two-sided arrow is used. Colors indicate whether the topics are essential (you can't skip them), optional but recommended (they are not essential but very beneficial), or optional (reading them or skipping them is up to you so they are just regarded as additional information). The legend indicates these colors.
+路线图由各个主题组成，每个主题表示为一组带标签的矩形。连接两组矩形的箭头（比如从 A 到 B）表示依赖关系（B 依赖 A）。有时两个主题之间的依赖关系模糊不清或相互关联，则使用双向箭头。颜色指示主题是必修的（不能跳过）、可选但推荐的（非必需但非常有益），还是可选的（读与不读取决于你，仅视为额外信息）。图例说明了这些颜色。
 
-Each topic has multiple books. This is since any two books in a single topic are either mostly similar but differ in a few aspects (e.g. how they explain some concepts or how the subjects are ordered) or they complement one another (so one book has subjects not discussed in the other). I recommend that the reader should look at the preface and/or introduction and the table of contents to see whether the book satisfies his/her needs and to be able to compare the differences between the books easily.
+每个主题有多本书籍。这是因为任何两本同一主题的书要么大致相似但在某些方面有所不同（例如它们如何解释某些概念或主题如何排序），要么它们互补（一本书讨论了另一本书未涉及的主题）。我建议读者应查看前言和/或引言以及目录，以判断该书是否满足自己的需求，并能轻松比较各书之间的差异。
 
-The file [mathematics-roadmap-topics.md](mathematics-roadmap-topics.md) contains all the topics of the roadmap with the books in text format if it suits you better, which can also help if you want to arrange your own roadmap. 
+文件 [mathematics-roadmap-topics.md](mathematics-roadmap-topics.md) 以文本格式包含了路线图的所有主题及书籍，如果你觉得这样更方便，它也可以帮助你安排自己的路线图。
 
-## Software
-The software used to create these diagrams is [draw.io](https://www.draw.io/). Just open the file `mathematics-roadmap.html` and you can start editing.
+## 软件
+用于创建这些图表的软件是 [draw.io](https://www.draw.io/)。打开文件 `mathematics-roadmap.drawio` 即可开始编辑。

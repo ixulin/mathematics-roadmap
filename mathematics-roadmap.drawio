@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-1" value="Legend" style="swimlane;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-1" value="图例" style="swimlane;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1320" y="-1100" width="160" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-2" value="Optional" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-2" value="可选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
           <mxGeometry x="30" y="150" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-3" value="Optional but Recommended" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-3" value="可选但推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
           <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-4" value="Essential&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-4" value="必修&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
           <mxGeometry x="30" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-46" value="" style="endArrow=classic;html=1;" parent="ZpYR9GBJYjBJ57970Wno-1" edge="1">
@@ -22,7 +22,7 @@
             <mxPoint x="105" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-47" value="One way Dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-47" value="单向依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
           <mxGeometry x="40" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-48" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="ZpYR9GBJYjBJ57970Wno-1" edge="1">
@@ -31,7 +31,7 @@
             <mxPoint x="105" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-49" value="Interrelation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-49" value="相互关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZpYR9GBJYjBJ57970Wno-1" vertex="1">
           <mxGeometry x="40" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-6" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=30;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-7" target="ZpYR9GBJYjBJ57970Wno-8" edge="1">
@@ -40,13 +40,13 @@
             <mxPoint x="-579" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-7" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-7" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-8" target="ZpYR9GBJYjBJ57970Wno-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-8" value="Introduction to Philosophy" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-8" value="哲学导论" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-780" y="-760" width="480" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-9" value="Think: A Compelling Introduction to Philosophy&lt;br&gt;&lt;b&gt;Simon Blackburn&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-8" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="ZpYR9GBJYjBJ57970Wno-16" target="HZ-TQ83FuogPrPlQnaqr-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-16" value="Introduction to Logic" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-16" value="逻辑学导论" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-730" y="-440" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-17" value="The Power of Logic&lt;br&gt;&lt;b&gt;Frances Howard-Snyder, Daniel Howard-Snyder, Ryan Wasserman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-16" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-20" target="ZpYR9GBJYjBJ57970Wno-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-20" value="Precalculus" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-20" value="预备微积分" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-200" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-21" value="Precalculus: Mathematics for Calculus&lt;br&gt;&lt;b&gt;James Stewart, Lothar Redlin, Saleem Watson&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-20" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-36" target="ZpYR9GBJYjBJ57970Wno-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-36" value="Calculus" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-36" value="微积分" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-760" y="40" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-37" value="Calculus: Early Transcendentals&lt;br&gt;&lt;b&gt;James Stewart&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-36" vertex="1">
@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-40" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-40" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-49" target="ZpYR9GBJYjBJ57970Wno-54" edge="1">
@@ -124,7 +124,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-49" target="ZpYR9GBJYjBJ57970Wno-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-49" value="Introduction to Linear Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-49" value="线性代数导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-718.75" y="400" width="357.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-50" value="Elementary Linear Algebra&lt;br&gt;&lt;b&gt;Howard Anton, Chris Rorres&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-49" vertex="1">
@@ -139,7 +139,7 @@
         <mxCell id="xL-RMtT2ga-J8ltklIkg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-54" target="xL-RMtT2ga-J8ltklIkg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-54" value="Introduction to Differential Equations" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-54" value="微分方程导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-240" y="365" width="280" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-55" value="Elementary Differential Equations and Boundary Value Problems&lt;br&gt;&lt;b&gt;William E. Boyce, Richard C. DiPrima&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-54" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-58" value="Differential Equations&lt;br&gt;&lt;b&gt;Dennis Zill, Warren Wright&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-54" vertex="1">
           <mxGeometry x="25" y="115" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-66" value="Problem Solving" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-66" value="解题方法" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-200" y="20" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-67" value="How to Solve It&lt;br&gt;&lt;b&gt;G. Polya&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZpYR9GBJYjBJ57970Wno-66" vertex="1">
@@ -181,7 +181,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZpYR9GBJYjBJ57970Wno-72" target="HZ-TQ83FuogPrPlQnaqr-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-72" value="Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-72" value="朴素集合论、数学推理与证明、离散数学" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-880" y="720" width="680" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-74" value="How to Prove It&lt;br&gt;&lt;b&gt;Daniel J. Velleman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
@@ -196,7 +196,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-75" value="Book Of Proof&lt;br&gt;&lt;b&gt;Richard Hammak&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
           <mxGeometry x="340" y="40" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-95" value="Discrete Mathematics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-95" value="离散数学" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-72" vertex="1">
           <mxGeometry x="50" y="110" width="560" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-73" value="Discrete Mathematics with Applications&lt;br&gt;&lt;b&gt;Susanna S. Epp&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-95" vertex="1">
@@ -208,7 +208,7 @@
         <mxCell id="ZpYR9GBJYjBJ57970Wno-102" value="&lt;div&gt;Mathematics: A Discrete Introduction&lt;/div&gt;&lt;div&gt;&lt;b&gt;Edward R. Scheinerman&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZpYR9GBJYjBJ57970Wno-95" vertex="1">
           <mxGeometry x="380" y="40" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-109" value="Introduction to Physics" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-109" value="物理学导论" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1300" y="50" width="420" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-110" value="Physics for Scientists and Engineers with Modern Physics&lt;br&gt;&lt;b&gt;Raymond A. Serway, John W. Jewett Jr.&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-109" vertex="1">
@@ -229,7 +229,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZpYR9GBJYjBJ57970Wno-117" target="HZ-TQ83FuogPrPlQnaqr-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZpYR9GBJYjBJ57970Wno-117" value="Introduction to Programming with Python" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ZpYR9GBJYjBJ57970Wno-117" value="Python 编程入门" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-80" y="793.5" width="320" height="183" as="geometry" />
         </mxCell>
         <mxCell id="ZpYR9GBJYjBJ57970Wno-118" value="Head First Python&lt;br&gt;&lt;b&gt;Paul Barry&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZpYR9GBJYjBJ57970Wno-117" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-1" target="HZ-TQ83FuogPrPlQnaqr-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-1" value="Introduction to the Philosophy of Mathematics and Logic" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-1" value="数学与逻辑哲学导论" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1155" y="280" width="650" height="279" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-2" value="Introduction to Logic and to the Methodology of the Deductive Sciences&lt;br&gt;&lt;b&gt;Alfred Tarski&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-1" vertex="1">
@@ -289,7 +289,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-14" target="XHwMdBdWKg2Phqc04OuS-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-14" value="Introduction to Axiomatic Set Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-14" value="公理化集合论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="460" y="685" width="600" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-15" value="Classic Set Theory&lt;br&gt;&lt;b&gt;Derek Goldrei&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
@@ -307,7 +307,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-19" value="A First Course in Mathematical Logic and Set Theory&lt;br&gt;&lt;b&gt;Michael L. O&#39;Leary&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-14" vertex="1">
           <mxGeometry x="383" y="110" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-29" value="Introduction to Mathematical Logic and Model Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-29" value="数理逻辑与模型论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1180" y="680" width="600" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-30" value="Mathematical Logic&lt;br&gt;&lt;b&gt;Ian Chiswell, Wilfrid Hodges&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
@@ -328,7 +328,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-35" value="Introduction to Mathematical Logic&lt;br&gt;&lt;b&gt;Elliott Mendelson&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-29" vertex="1">
           <mxGeometry x="415" y="120" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-37" value="Introduction to the Theory of Computation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-37" value="计算理论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1900" y="680" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-38" value="&lt;span&gt;Introduction to the Theory of Computation&lt;br&gt;&lt;b&gt;Michael Sipser&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-37" vertex="1">
@@ -349,7 +349,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-56" target="HZ-TQ83FuogPrPlQnaqr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-56" value="Introduction to the Philosophy of Language" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-56" value="语言哲学导论" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1304.5" y="-40" width="351" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-57" value="Philosophy of Language&lt;br&gt;&lt;b&gt;Alexander Miller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="HZ-TQ83FuogPrPlQnaqr-56" vertex="1">
@@ -378,7 +378,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-63" value="Introduction to Real Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-63" value="实分析导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-838.5" y="1080" width="597" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-64" value="Introduction to Real Analysis&lt;br&gt;&lt;b&gt;Robert G. Bartle, Donald R. Sherbert&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-63" vertex="1">
@@ -399,7 +399,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-70" target="HZ-TQ83FuogPrPlQnaqr-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-70" value="Introduction to Number Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-70" value="数论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1360" y="1080" width="397" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-71" value="Elementary Number Theory&lt;br&gt;&lt;b&gt;David Burton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-70" vertex="1">
@@ -414,7 +414,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-79" target="XHwMdBdWKg2Phqc04OuS-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-79" value="Introduction to Combinatorics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-79" value="组合数学导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-119.99714285714276" y="1080" width="420" height="210" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-80" value="Combinatorial Reasoning: An Introduction to the Art of Counting&lt;br&gt;&lt;b&gt;Duane DeTemple, William Webb&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
@@ -429,7 +429,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-83" value="Introductory Combinatorics&lt;br&gt;&lt;b&gt;Richard A. Brualdi&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-79" vertex="1">
           <mxGeometry x="240" y="50" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-85" value="Euclidean and Non-Euclidean Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-85" value="欧几里得几何与非欧几何" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-2030" y="639" width="548" height="402.5" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-86" value="Foundations of Euclidean and Non-Euclidean Geometry&lt;br&gt;&lt;b&gt;Ellery B. Golos&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-85" vertex="1">
@@ -493,7 +493,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-100" value="Introduction to General Topology" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-100" value="一般拓扑学导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-800" y="1400" width="520" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-101" value="Topology&lt;br&gt;&lt;b&gt;James Munkres&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-100" vertex="1">
@@ -539,7 +539,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-110" value="Introduction to Abstract Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-110" value="抽象代数导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1322.25" y="1400" width="321.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-111" value="Contemporary Abstract Algebra&lt;br&gt;&lt;b&gt;Joseph A. Gallian&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
@@ -554,7 +554,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-114" value="Algebra&lt;br&gt;&lt;b&gt;Michael Artin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-110" vertex="1">
           <mxGeometry x="169" y="40" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-119" value="Introduction to Numercial Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-119" value="数值分析导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1400" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-120" value="Numerical Analysis Richard Burden, Jr. &lt;b&gt;Douglas Faires&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-119" vertex="1">
@@ -578,7 +578,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-127" target="HZ-TQ83FuogPrPlQnaqr-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-127" value="Advanced Linear Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-127" value="高等线性代数" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1334.75" y="1720" width="346.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-128" value="&lt;span&gt;Linear Algebra Done Right&lt;br&gt;&lt;b&gt;Sheldon Axler&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-127" vertex="1">
@@ -599,7 +599,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-138" target="HZ-TQ83FuogPrPlQnaqr-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-138" value="Introduction to Complex Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-138" value="复分析导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-746.5" y="1720" width="428" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-139" value="&lt;span&gt;Complex Analysis&lt;br&gt;&lt;b&gt;John M. Howie&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-138" vertex="1">
@@ -620,7 +620,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-147" target="XHwMdBdWKg2Phqc04OuS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-147" value="Introduction to Functional Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-147" value="泛函分析导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-926.5" y="2440" width="325" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-148" value="Introductory Functional Analysis with Applications&lt;br&gt;&lt;b&gt;Erwin Kreyszig&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-147" vertex="1">
@@ -638,7 +638,7 @@
         <mxCell id="TdLw2zF5TJnS2Xj7bHxv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HZ-TQ83FuogPrPlQnaqr-153" target="XHwMdBdWKg2Phqc04OuS-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZ-TQ83FuogPrPlQnaqr-153" value="Introduction to Mathematical Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="HZ-TQ83FuogPrPlQnaqr-153" value="数学分析导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-932.5" y="2040" width="337" height="280" as="geometry" />
         </mxCell>
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-154" value="Principles of Mathematical Analysis&lt;br&gt;&lt;b&gt;Walter Rudin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
@@ -659,7 +659,7 @@
         <mxCell id="HZ-TQ83FuogPrPlQnaqr-159" value="Calculus and Analysis in Euclidean Space&lt;br&gt;&lt;b&gt;Jerry Shurman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="HZ-TQ83FuogPrPlQnaqr-153" vertex="1">
           <mxGeometry x="168" y="200" width="152" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-1" value="Advanced Mathematical Analysis" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-1" value="高等数学分析" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-919.75" y="2680" width="311.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-2" value="Real Analysis&lt;br&gt;&lt;b&gt;H.L. Royden, P.M. Fitzpatrick&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-1" vertex="1">
@@ -693,7 +693,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-8" value="Motivation for Category Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-8" value="范畴论入门动机" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1870" y="1760" width="388" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-9" value="&lt;span&gt;Conceptual Mathematics&lt;br&gt;&lt;b&gt;F. William Lawvere, Stephen H. Schanuel&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-8" vertex="1">
@@ -705,7 +705,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-11" value="&lt;span&gt;Arrows Structures and Functors: The Categorical Imperative&lt;br&gt;&lt;b&gt;Michael A. Arbib&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-8" vertex="1">
           <mxGeometry x="160" y="120" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-15" value="Introduction to Category Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-15" value="范畴论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1846" y="2080" width="340" height="250" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-16" value="&lt;span&gt;Category Theory&lt;br&gt;&lt;b&gt;Steve Awodey&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-15" vertex="1">
@@ -726,7 +726,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-24" target="XHwMdBdWKg2Phqc04OuS-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-24" value="Advanced Abstract Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-24" value="高等抽象代数" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1328" y="2270" width="333" height="440" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-25" value="&lt;span&gt;Algebra&lt;br&gt;&lt;b&gt;Thomas Hungerford&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
@@ -756,7 +756,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-33" value="Introduction to Commutative Algebra&lt;br&gt;&lt;b&gt;M. F. Atiyah &amp;amp; I. G. MacDonald&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-24" vertex="1">
           <mxGeometry x="72" y="360" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-54" value="Universal Algebra" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-54" value="泛代数" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="340" height="250" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-55" value="An Invitation to General Algebra and Universal Constructions &lt;br&gt;&lt;b&gt;George M. Bergman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
@@ -777,7 +777,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-60" value="Post-Modern Algebra&lt;br&gt;&lt;b&gt;Jonathan D. H. Smith, Anna B. Romanowska&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-54" vertex="1">
           <mxGeometry x="145" y="180" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-64" value="Introduction to Lattice Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-64" value="格论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="890" y="1020" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-65" value="Introduction to Lattices and Order&lt;br&gt;&lt;b&gt;B.A. Davey&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-64" vertex="1">
@@ -786,7 +786,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-68" value="Lattices and Ordered Sets&lt;br&gt;&lt;b&gt;Steven Roman&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-64" vertex="1">
           <mxGeometry x="15" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-73" value="Algebraic Number Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-73" value="代数数论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1311.5" y="2840" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-74" value="&lt;div&gt;An Introduction to the Theory of Numbers&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ivan Niven, Herbert S. Zuckerman, Hugh L. Montgomery&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-73" vertex="1">
@@ -801,7 +801,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-78" target="XHwMdBdWKg2Phqc04OuS-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-78" value="Introduction to Probability Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-78" value="概率论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="1720" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-79" value="A First Course in Probability Theory&lt;br&gt;&lt;b&gt;Sheldon Ross&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-78" vertex="1">
@@ -822,7 +822,7 @@
         <mxCell id="GhOrqRIWr9mbEWzN8t90-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHwMdBdWKg2Phqc04OuS-84" target="GhOrqRIWr9mbEWzN8t90-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-84" value="Introduction to Mathematical Statistics" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-84" value="数理统计导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="2040" width="540" height="280" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-85" value="An Introduction to Mathematical Statistics and Its Applications&lt;br&gt;&lt;b&gt;Richard Larsen, Morris Marx&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-84" vertex="1">
@@ -852,7 +852,7 @@
         <mxCell id="GhOrqRIWr9mbEWzN8t90-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHwMdBdWKg2Phqc04OuS-94" target="GhOrqRIWr9mbEWzN8t90-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-94" value="Advanced Probability Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-94" value="高等概率论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="2440" width="460" height="280" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-95" value="An Introduction to Probability and Statistics&lt;br&gt;&lt;b&gt;V. K. Rohatgi, A. K. Md. E. Saleh&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
@@ -873,7 +873,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-100" value="An Introduction to Probability Theory and Its Applications&lt;br&gt;&lt;b&gt;William Feller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-94" vertex="1">
           <mxGeometry x="271" y="120" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-103" value="Advanced Mathematical Statistics" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-103" value="高等数理统计" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="187.5" y="2840" width="385" height="270" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-104" value="Statistical Inference&lt;br&gt;&lt;b&gt;George Casella, Roger L. Berger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-103" vertex="1">
@@ -897,7 +897,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-109" target="XHwMdBdWKg2Phqc04OuS-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-109" value="Introduction to Statistics" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-109" value="统计学导论" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="800" y="2049.9964705882353" width="305" height="260" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-110" value="&lt;div&gt;OpenIntro Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
@@ -915,7 +915,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-114" value="&lt;div&gt;Introductory Statistics&lt;/div&gt;&lt;div&gt;&lt;b&gt;Prem S. Mann&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-109" vertex="1">
           <mxGeometry x="160" y="40" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-116" value="Philosophy of Probability and Statistics" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-116" value="概率与统计哲学" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="760" y="2428.75" width="330" height="302.5" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-117" value="&lt;div&gt;Interpreting Probability: Controversies and Developments in the early twentieth century&lt;/div&gt;&lt;div&gt;&lt;b&gt;David Howie&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
@@ -939,7 +939,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-124" value="Theory of Probability&lt;br&gt;&lt;b&gt;Bruno de Finetti&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XHwMdBdWKg2Phqc04OuS-116" vertex="1">
           <mxGeometry x="160" y="245" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-125" value="Introduction to Game Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-125" value="博弈论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="1685" width="289" height="270" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-126" value="&lt;div&gt;Strategy&lt;/div&gt;&lt;div&gt;&lt;b&gt;Joel Watson&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-125" vertex="1">
@@ -957,7 +957,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-133" target="XHwMdBdWKg2Phqc04OuS-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-133" value="Introduction to Optimization Theory" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-133" value="最优化理论导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-460" y="2041" width="430" height="277" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-134" value="A First Course in Optimization Theory&lt;br&gt;&lt;b&gt;Rangarajan K. Sundaram&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
@@ -975,7 +975,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-138" value="Practical Optimization&lt;br&gt;&lt;b&gt;Philip E. Gill, Walter Murray, Margaret H. Wright&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-133" vertex="1">
           <mxGeometry x="231.5" y="118.5" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-139" value="Convex Optimization" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-139" value="凸优化" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-443" y="2400.5" width="396" height="196" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-140" value="Convex Optimization Theory&lt;br&gt;&lt;b&gt;Dimitri P. Bertsekas&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-139" vertex="1">
@@ -993,7 +993,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-162" target="XHwMdBdWKg2Phqc04OuS-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-162" value="Algebraic Topology Motivation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-162" value="代数拓扑入门动机" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2300" y="1400" width="302" height="267" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-163" value="Invitation to Combinatorial Topology&lt;br&gt;&lt;b&gt;Maurice Frechet and Ky Fan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
@@ -1011,7 +1011,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-167" value="Topology &lt;br&gt;&lt;b&gt;Klaus Janich&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-162" vertex="1">
           <mxGeometry x="158" y="189.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-168" value="Introduction to Algebraic Topology" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-168" value="代数拓扑导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2300" y="1800" width="302" height="198" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-169" value="Algebraic Topology: An Introduction&lt;br&gt;&lt;b&gt;William Massey&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-168" vertex="1">
@@ -1029,7 +1029,7 @@
         <mxCell id="N2863A0XC9Yqkhy7363l-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHwMdBdWKg2Phqc04OuS-178" target="N2863A0XC9Yqkhy7363l-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-178" value="Algebraic Geometry Motivation" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-178" value="代数几何入门动机" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2770" y="1400" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-183" value="Introduction to Algebraic Geometry&lt;br&gt;&lt;b&gt;Brendan Hassett&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-178" vertex="1">
@@ -1038,7 +1038,7 @@
         <mxCell id="XHwMdBdWKg2Phqc04OuS-184" value="Ideals Varieties and Algorithms&lt;br&gt;&lt;b&gt;David A. Cox, John Little, Donal O&#39;Shea&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-178" vertex="1">
           <mxGeometry x="11.5" y="40" width="157" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="N2863A0XC9Yqkhy7363l-1" value="Introduction to Algebraic Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="N2863A0XC9Yqkhy7363l-1" value="代数几何导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2755" y="1640" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="N2863A0XC9Yqkhy7363l-2" value="A Royal Road to Algebraic Geometry&lt;br&gt;&lt;b&gt;Audune Holme&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="N2863A0XC9Yqkhy7363l-1" vertex="1">
@@ -1059,7 +1059,7 @@
         <mxCell id="TdLw2zF5TJnS2Xj7bHxv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XHwMdBdWKg2Phqc04OuS-188" target="TdLw2zF5TJnS2Xj7bHxv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHwMdBdWKg2Phqc04OuS-188" value="Introduction to Differential Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XHwMdBdWKg2Phqc04OuS-188" value="微分几何导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2720" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="XHwMdBdWKg2Phqc04OuS-189" value="A Differential Approach to Geometry&lt;br&gt;&lt;b&gt;Francis Borceux&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
@@ -1077,7 +1077,7 @@
         <mxCell id="TdLw2zF5TJnS2Xj7bHxv-4" value="Elementary Differential Geometry&lt;br&gt;&lt;b&gt;Andrew Pressley&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XHwMdBdWKg2Phqc04OuS-188" vertex="1">
           <mxGeometry x="105" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-5" value="Advanced Differential Geometry" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
+        <mxCell id="TdLw2zF5TJnS2Xj7bHxv-5" value="高等微分几何" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-430" y="3120" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="TdLw2zF5TJnS2Xj7bHxv-6" value="Manifolds, Tensors and Forms&lt;br&gt;&lt;b&gt;Paul Renteln&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
@@ -1095,7 +1095,7 @@
         <mxCell id="TdLw2zF5TJnS2Xj7bHxv-10" value="First Steps in Differential Geometry&lt;br&gt;&lt;b&gt;Andrew Mclnerney&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="TdLw2zF5TJnS2Xj7bHxv-5" vertex="1">
           <mxGeometry x="105" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xL-RMtT2ga-J8ltklIkg-1" value="Introduction to Partial Differential Equations" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xL-RMtT2ga-J8ltklIkg-1" value="偏微分方程导论" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="325" width="300" height="350" as="geometry" />
         </mxCell>
         <mxCell id="xL-RMtT2ga-J8ltklIkg-2" value="Partial Differential Equations for Scientists and Engineers&lt;br&gt;&lt;b&gt;Stanley J. Farlow&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
@@ -1110,7 +1110,7 @@
         <mxCell id="xL-RMtT2ga-J8ltklIkg-6" value="Partial Differential Equations&lt;br&gt;&lt;b&gt;Mark A. Pinsky&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xL-RMtT2ga-J8ltklIkg-1" vertex="1">
           <mxGeometry x="20" y="270" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhOrqRIWr9mbEWzN8t90-1" value="Stochastic Calculus" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GhOrqRIWr9mbEWzN8t90-1" value="随机微积分" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="678.25" y="2830" width="493.5" height="260" as="geometry" />
         </mxCell>
         <mxCell id="GhOrqRIWr9mbEWzN8t90-2" value="Applied Stochastic Differential Equations&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Simo Särkkä,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Arno Solin&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GhOrqRIWr9mbEWzN8t90-1">
@@ -1131,7 +1131,7 @@
         <mxCell id="GhOrqRIWr9mbEWzN8t90-14" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Stochastic Calculus: An Introduction Through Theory and Excercises&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Paolo Baldi&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GhOrqRIWr9mbEWzN8t90-1">
           <mxGeometry x="253.5" y="180" width="224.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhOrqRIWr9mbEWzN8t90-16" value="Time Series Analysis" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GhOrqRIWr9mbEWzN8t90-16" value="时间序列分析" style="swimlane;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1180" y="2450" width="493.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GhOrqRIWr9mbEWzN8t90-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Introduction to Time Series Analysis and Forecasting&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GhOrqRIWr9mbEWzN8t90-16">
